@@ -9,3 +9,7 @@ pip install django djangorestframework openpyxl
 <b>run by executing command:</b>
 
 python manage.py runserver
+
+</br>
+
+to get data from multiple columns use ', ' as a separator, example input: CURRENT USD, CURRENT CAD
